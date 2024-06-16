@@ -7,18 +7,25 @@ class Solution(object):
         """
         merged = []
         len1, len2 = len(word1), len(word2)
+        i = 0
         
         # Iterate through both strings and add letters alternately
-        for i in range(max(len1, len2)):
-            if i < len1:
-                merged.append(word1[i])
-            if i < len2:
-                merged.append(word2[i])
+        while i < len1 and i < len2:
+            merged.append(word1[i])
+            merged.append(word2[i])
+            i += 1
         
-        # Join the list into a single string and return
+        # Add remaining characters from word1 if any
+        if i < len1:
+            merged.extend(word1[i:])
+        
+        # Add remaining characters from word2 if any
+        if i < len2:
+            merged.extend(word2[i:])
+        
         return ''.join(merged)
 
-# Example usage:
+# Examples to test the function
 solution = Solution()
 print(solution.mergeAlternately("abc", "pqr"))  # Output: "apbqcr"
 print(solution.mergeAlternately("ab", "pqrs"))  # Output: "apbqrs"
