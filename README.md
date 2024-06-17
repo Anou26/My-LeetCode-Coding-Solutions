@@ -14,3 +14,11 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anou26/LeetCode-Coding/tree/master/1146-greatest-common-divisor-of-strings) |
+# Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
+# Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
