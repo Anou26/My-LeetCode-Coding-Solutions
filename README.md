@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/Anou26/LeetCode-Coding/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
@@ -17,6 +18,7 @@
 # Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 # Binary Search
 |  |
