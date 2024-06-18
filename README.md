@@ -19,8 +19,25 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 # Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
+# Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+# Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
