@@ -43,3 +43,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+# Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Anou26/LeetCode-Coding/tree/master/0577-employee-bonus) |
