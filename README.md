@@ -48,5 +48,6 @@
 | ------- |
 | [0577-employee-bonus](https://github.com/Anou26/LeetCode-Coding/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Anou26/LeetCode-Coding/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Anou26/LeetCode-Coding/tree/master/0595-big-countries) |
 | [1415-students-and-examinations](https://github.com/Anou26/LeetCode-Coding/tree/master/1415-students-and-examinations) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anou26/LeetCode-Coding/tree/master/1908-recyclable-and-low-fat-products) |
