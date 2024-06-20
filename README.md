@@ -7,11 +7,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Coding/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Anou26/LeetCode-Coding/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Coding/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anou26/LeetCode-Coding/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Anou26/LeetCode-Coding/tree/master/1894-merge-strings-alternately) |
 # Math
@@ -63,3 +65,4 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0392-is-subsequence) |
