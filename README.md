@@ -23,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 # Binary Search
@@ -58,3 +59,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anou26/LeetCode-Coding/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Anou26/LeetCode-Coding/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anou26/LeetCode-Coding/tree/master/1908-recyclable-and-low-fat-products) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
