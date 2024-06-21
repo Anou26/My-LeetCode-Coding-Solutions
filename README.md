@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+| [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 # Binary Search
@@ -79,3 +80,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anou26/LeetCode-Coding/tree/master/0014-longest-common-prefix) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
