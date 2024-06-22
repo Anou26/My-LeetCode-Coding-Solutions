@@ -78,6 +78,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anou26/LeetCode-Coding/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Anou26/LeetCode-Coding/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Anou26/LeetCode-Coding/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/Anou26/LeetCode-Coding/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anou26/LeetCode-Coding/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anou26/LeetCode-Coding/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 # Dynamic Programming
