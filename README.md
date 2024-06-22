@@ -47,6 +47,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anou26/LeetCode-Coding/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Anou26/LeetCode-Coding/tree/master/0383-ransom-note) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Anou26/LeetCode-Coding/tree/master/0383-ransom-note) |
 # Database
 |  |
 | ------- |
@@ -98,3 +100,4 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Anou26/LeetCode-Coding/tree/master/0383-ransom-note) |
