@@ -1,5 +1,5 @@
-# LeetCode-Coding
-
+# LeetCode-Coding-Practice
+This is where I have all my solutions to LeetCode Problems that I've practiced and solved.
 
 # Two Pointers
 |  |
