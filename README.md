@@ -99,5 +99,10 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Anou26/LeetCode-Coding/tree/master/0383-ransom-note) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Coding/tree/master/0020-valid-parentheses) |
