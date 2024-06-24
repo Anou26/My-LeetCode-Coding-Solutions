@@ -40,6 +40,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/Anou26/LeetCode-Coding/tree/master/1833-find-the-highest-altitude) |
 # Binary Search
 |  |
 | ------- |
@@ -110,3 +111,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Coding/tree/master/0020-valid-parentheses) |
+# Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Anou26/LeetCode-Coding/tree/master/1833-find-the-highest-altitude) |
