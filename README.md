@@ -38,6 +38,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Anou26/LeetCode-Coding/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Anou26/LeetCode-Coding/tree/master/1833-find-the-highest-altitude) |
@@ -114,4 +115,5 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Anou26/LeetCode-Coding/tree/master/1833-find-the-highest-altitude) |
