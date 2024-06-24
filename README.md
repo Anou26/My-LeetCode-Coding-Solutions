@@ -9,6 +9,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Coding/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Anou26/LeetCode-Coding/tree/master/1894-merge-strings-alternately) |
 # String
@@ -34,6 +35,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Anou26/LeetCode-Coding/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0792-binary-search) |
