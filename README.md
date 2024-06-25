@@ -123,3 +123,15 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0724-find-pivot-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Anou26/LeetCode-Coding/tree/master/1833-find-the-highest-altitude) |
+# Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Anou26/LeetCode-Coding/tree/master/0969-number-of-recent-calls) |
+# Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Anou26/LeetCode-Coding/tree/master/0969-number-of-recent-calls) |
+# Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Anou26/LeetCode-Coding/tree/master/0969-number-of-recent-calls) |
