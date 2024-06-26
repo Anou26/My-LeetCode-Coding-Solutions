@@ -35,6 +35,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/Anou26/LeetCode-Coding/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Anou26/LeetCode-Coding/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anou26/LeetCode-Coding/tree/master/0643-maximum-average-subarray-i) |
