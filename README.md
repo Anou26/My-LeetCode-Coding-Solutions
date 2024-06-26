@@ -9,6 +9,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Coding/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Anou26/LeetCode-Coding/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Anou26/LeetCode-Coding/tree/master/1894-merge-strings-alternately) |
@@ -51,6 +52,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anou26/LeetCode-Coding/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Anou26/LeetCode-Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Anou26/LeetCode-Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Coding/tree/master/0242-valid-anagram) |
@@ -141,3 +143,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Anou26/LeetCode-Coding/tree/master/0969-number-of-recent-calls) |
+# Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Anou26/LeetCode-Coding/tree/master/0141-linked-list-cycle) |
