@@ -161,16 +161,20 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
