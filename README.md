@@ -32,6 +32,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anou26/LeetCode-Coding/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Anou26/LeetCode-Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
