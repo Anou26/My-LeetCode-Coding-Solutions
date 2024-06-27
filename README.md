@@ -90,6 +90,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [1258-article-views-i](https://github.com/Anou26/LeetCode-Coding/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/Anou26/LeetCode-Coding/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anou26/LeetCode-Coding/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/Anou26/LeetCode-Coding/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Anou26/LeetCode-Coding/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anou26/LeetCode-Coding/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Anou26/LeetCode-Coding/tree/master/1773-percentage-of-users-attended-a-contest) |
