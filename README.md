@@ -35,6 +35,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0001-two-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Anou26/LeetCode-Coding/tree/master/0228-summary-ranges) |
@@ -63,6 +64,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 # Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
 # Sorting
 |  |
@@ -163,6 +165,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anou26/LeetCode-Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Depth-First Search
 |  |
@@ -181,8 +184,10 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0100-same-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anou26/LeetCode-Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anou26/LeetCode-Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
