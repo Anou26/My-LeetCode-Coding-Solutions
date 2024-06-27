@@ -156,3 +156,19 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anou26/LeetCode-Coding/tree/master/0021-merge-two-sorted-lists) |
+# Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0104-maximum-depth-of-binary-tree) |
