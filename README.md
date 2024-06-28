@@ -8,6 +8,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Coding/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anou26/LeetCode-Coding/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0001-two-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anou26/LeetCode-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anou26/LeetCode-Coding/tree/master/0169-majority-element) |
