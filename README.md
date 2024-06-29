@@ -235,5 +235,6 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Database
 |  |
 | ------- |
+| [1278-product-price-at-a-given-date](https://github.com/Anou26/LeetCode-Coding/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
