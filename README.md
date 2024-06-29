@@ -232,4 +232,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1292-immediate-food-delivery-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
