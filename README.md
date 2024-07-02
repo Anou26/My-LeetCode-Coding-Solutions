@@ -227,6 +227,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
@@ -268,4 +269,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
