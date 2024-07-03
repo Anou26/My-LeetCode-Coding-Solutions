@@ -262,6 +262,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Anou26/LeetCode-Coding/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/Anou26/LeetCode-Coding/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/Anou26/LeetCode-Coding/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/Anou26/LeetCode-Coding/tree/master/2087-confirmation-rate) |
 ## Hash Table
 |  |
 | ------- |
