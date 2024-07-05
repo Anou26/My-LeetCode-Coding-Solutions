@@ -259,6 +259,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anou26/LeetCode-Coding/tree/master/0176-second-highest-salary) |
 | [0585-investments-in-2016](https://github.com/Anou26/LeetCode-Coding/tree/master/0585-investments-in-2016) |
+| [0626-exchange-seats](https://github.com/Anou26/LeetCode-Coding/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Anou26/LeetCode-Coding/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Anou26/LeetCode-Coding/tree/master/1182-game-play-analysis-iv) |
