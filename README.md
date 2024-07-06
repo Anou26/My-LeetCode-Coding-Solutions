@@ -227,6 +227,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
