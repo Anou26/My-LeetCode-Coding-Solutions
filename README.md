@@ -218,6 +218,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anou26/LeetCode-Coding/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anou26/LeetCode-Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
@@ -295,6 +296,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
 ## Matrix
 |  |
 | ------- |
