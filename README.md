@@ -270,6 +270,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [1278-product-price-at-a-given-date](https://github.com/Anou26/LeetCode-Coding/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Anou26/LeetCode-Coding/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1452-restaurant-growth](https://github.com/Anou26/LeetCode-Coding/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Anou26/LeetCode-Coding/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/Anou26/LeetCode-Coding/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Anou26/LeetCode-Coding/tree/master/2087-confirmation-rate) |
