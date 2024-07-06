@@ -241,6 +241,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
@@ -306,6 +307,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,4 +334,5 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
