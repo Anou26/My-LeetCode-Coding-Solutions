@@ -209,6 +209,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
@@ -226,6 +227,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
@@ -287,6 +289,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
