@@ -238,6 +238,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Anou26/LeetCode-Coding/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
