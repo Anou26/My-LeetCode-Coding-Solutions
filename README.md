@@ -266,6 +266,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Anou26/LeetCode-Coding/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0180-consecutive-numbers) |
 | [0585-investments-in-2016](https://github.com/Anou26/LeetCode-Coding/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Anou26/LeetCode-Coding/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Anou26/LeetCode-Coding/tree/master/0626-exchange-seats) |
