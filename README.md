@@ -318,6 +318,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
@@ -347,4 +348,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
