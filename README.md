@@ -243,6 +243,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Anou26/LeetCode-Coding/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
@@ -255,6 +256,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -289,6 +291,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
