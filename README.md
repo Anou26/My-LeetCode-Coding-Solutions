@@ -221,6 +221,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anou26/LeetCode-Coding/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anou26/LeetCode-Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -299,6 +300,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -356,4 +358,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
