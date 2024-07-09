@@ -244,6 +244,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Anou26/LeetCode-Coding/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
@@ -288,6 +289,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -349,6 +351,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
