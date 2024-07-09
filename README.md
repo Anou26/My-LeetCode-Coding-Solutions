@@ -368,4 +368,20 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
