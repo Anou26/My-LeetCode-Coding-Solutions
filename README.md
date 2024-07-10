@@ -223,6 +223,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0238-product-of-array-except-self](https://github.com/Anou26/LeetCode-Coding/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anou26/LeetCode-Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
@@ -297,6 +298,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -355,6 +357,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +367,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting Sort
 |  |
 | ------- |
@@ -384,4 +388,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
