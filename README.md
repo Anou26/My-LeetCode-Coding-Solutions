@@ -218,6 +218,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anou26/LeetCode-Coding/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -239,6 +240,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
@@ -329,6 +331,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
