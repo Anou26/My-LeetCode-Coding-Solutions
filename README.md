@@ -230,6 +230,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anou26/LeetCode-Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
@@ -239,6 +240,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +310,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
@@ -317,6 +320,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
