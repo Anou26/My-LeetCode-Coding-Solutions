@@ -219,6 +219,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anou26/LeetCode-Coding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -254,6 +255,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anou26/LeetCode-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
@@ -333,6 +335,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
 ## Stack
 |  |
@@ -408,6 +411,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anou26/LeetCode-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
