@@ -220,6 +220,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0057-insert-interval](https://github.com/Anou26/LeetCode-Coding/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anou26/LeetCode-Coding/tree/master/0238-product-of-array-except-self) |
@@ -407,4 +408,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anou26/LeetCode-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
