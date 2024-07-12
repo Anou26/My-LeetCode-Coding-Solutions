@@ -365,6 +365,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Anou26/LeetCode-Coding/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
