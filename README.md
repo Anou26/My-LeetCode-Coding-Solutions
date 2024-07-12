@@ -241,6 +241,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anou26/LeetCode-Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -370,6 +371,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anou26/LeetCode-Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
