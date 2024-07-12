@@ -263,6 +263,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +348,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -358,6 +360,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
 | ------- |
