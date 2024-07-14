@@ -221,6 +221,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -311,6 +312,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
@@ -406,6 +408,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -421,6 +424,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Randomized
@@ -436,4 +440,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
