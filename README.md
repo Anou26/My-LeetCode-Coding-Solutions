@@ -376,6 +376,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anou26/LeetCode-Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
