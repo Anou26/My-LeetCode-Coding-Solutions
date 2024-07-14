@@ -218,6 +218,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anou26/LeetCode-Coding/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -308,6 +309,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anou26/LeetCode-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
@@ -340,6 +342,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [2428-equal-row-and-column-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/2428-equal-row-and-column-pairs) |
