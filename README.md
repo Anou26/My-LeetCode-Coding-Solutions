@@ -229,6 +229,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anou26/LeetCode-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anou26/LeetCode-Coding/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -323,6 +324,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anou26/LeetCode-Coding/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Anou26/LeetCode-Coding/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anou26/LeetCode-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anou26/LeetCode-Coding/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anou26/LeetCode-Coding/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
@@ -336,6 +338,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anou26/LeetCode-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
 |  |
 | ------- |
