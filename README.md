@@ -265,6 +265,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -362,6 +363,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -395,12 +397,14 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anou26/LeetCode-Coding/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anou26/LeetCode-Coding/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Anou26/LeetCode-Coding/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
 ## Design
 |  |
