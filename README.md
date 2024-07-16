@@ -223,6 +223,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Anou26/LeetCode-Coding/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -339,6 +340,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Anou26/LeetCode-Coding/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anou26/LeetCode-Coding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
