@@ -211,6 +211,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Anou26/LeetCode-Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
@@ -242,6 +243,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Anou26/LeetCode-Coding/tree/master/0443-string-compression) |
@@ -363,6 +365,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Coding/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
@@ -371,6 +374,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anou26/LeetCode-Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anou26/LeetCode-Coding/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -464,4 +468,8 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
