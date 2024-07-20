@@ -268,6 +268,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Anou26/LeetCode-Coding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Anou26/LeetCode-Coding/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0394-decode-string) |
@@ -326,6 +327,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0076-minimum-window-substring](https://github.com/Anou26/LeetCode-Coding/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Anou26/LeetCode-Coding/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anou26/LeetCode-Coding/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anou26/LeetCode-Coding/tree/master/0380-insert-delete-getrandom-o1) |
@@ -444,6 +446,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Anou26/LeetCode-Coding/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Coding/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anou26/LeetCode-Coding/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
