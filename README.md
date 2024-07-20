@@ -266,6 +266,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anou26/LeetCode-Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Anou26/LeetCode-Coding/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Anou26/LeetCode-Coding/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anou26/LeetCode-Coding/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Anou26/LeetCode-Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Anou26/LeetCode-Coding/tree/master/0224-basic-calculator) |
@@ -279,6 +280,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anou26/LeetCode-Coding/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Anou26/LeetCode-Coding/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anou26/LeetCode-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anou26/LeetCode-Coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anou26/LeetCode-Coding/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -321,6 +323,7 @@ This is where I have all my solutions to LeetCode Problems that I've practiced a
 | [0036-valid-sudoku](https://github.com/Anou26/LeetCode-Coding/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anou26/LeetCode-Coding/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Anou26/LeetCode-Coding/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anou26/LeetCode-Coding/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Coding/tree/master/0128-longest-consecutive-sequence) |
